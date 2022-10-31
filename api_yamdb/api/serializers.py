@@ -1,13 +1,11 @@
+from django.core.validators import MaxValueValidator, MinValueValidator
 from django.db.models import Avg
 from django.shortcuts import get_object_or_404
+from django.utils import timezone
 from rest_framework import serializers
-
 from rest_framework.relations import SlugRelatedField
 from rest_framework.validators import UniqueValidator
-
-from reviews.models import Review, Comments, Categories, Genres, Title, User
-from django.core.validators import MaxValueValidator, MinValueValidator
-from django.utils import timezone
+from reviews.models import Categories, Comments, Genres, Review, Title, User
 
 
 class ReviewsSerializers(serializers.ModelSerializer):
