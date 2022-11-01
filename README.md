@@ -1,6 +1,6 @@
 # Проект YaMDb
 ---
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Django-app workflow](https://github.com/ayzeks/yamdb_final/actions/workflows/main.yml/badge.svg)
 
 ---
 ## Об авторе
