@@ -14,6 +14,8 @@ ALLOWED_HOSTS = [
     '*',
     '127.0.0.1',
     'localhost',
+    '130.193.55.24',
+    'azik.ddns.net',
 ]
 
 

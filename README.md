@@ -73,3 +73,7 @@ python, Django, Pillow, pytest, django Rest framework, Docker, Ngenix, PostgreSQ
 ### Полная документация проекта:
 
 > http://localhost/redoc
+
+### Адрес сервера
+
+> <sub> azik.ddns.net </sub>
