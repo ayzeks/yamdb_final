@@ -76,4 +76,4 @@ python, Django, Pillow, pytest, django Rest framework, Docker, Ngenix, PostgreSQ
 
 ### Адрес сервера
 
-> <sub> azik.ddns.net </sub>
+> <sub> azik.ddns.net/api/v1/</sub>
